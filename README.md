@@ -1,41 +1,20 @@
-👋 Hi, I’m Manav!
+Hi, I’m Manav 👋
 
-🎯 Aspiring AI & Machine Learning Engineer
+I’m a computer science student in Australia, interested in machine learning and how it can be used to solve practical problems.
 
-I’m a Computer Science student based in Australia, passionate about Artificial Intelligence, Machine Learning, and building technology that solves real-world problems.
+Right now, I’m working on my programming and algorithms foundations while learning more about data analysis and ML. I like understanding why something works, not just getting the code to run.
 
-I’m currently strengthening my understanding of algorithms, programming, data analysis, and the fundamentals of intelligent systems.
+What I’m exploring
 
-🧠 Areas of Interest
+* Machine learning and data analysis
+* Data structures and algorithms
+* Building useful software with clear, readable code
 
-* Artificial Intelligence & Machine Learning
-* Data Science & Predictive Analytics
-* Deep Learning & Neural Networks
-* Data Structures & Algorithms
-* Software Engineering
+Projects
 
-🌱 Currently Learning
+I’m putting together a few projects to share here. I’d rather publish work that I’ve tested and can explain than fill this page with unfinished demos.
 
-* Python for Machine Learning
-* Data Analysis & Visualisation
-* Machine Learning Fundamentals
-* Model Training & Evaluation
+Find me
 
-🚀 My Goals
-
-* Build practical end-to-end ML projects
-* Develop strong foundations in AI engineering
-* Explore real-world applications of machine learning
-* Collaborate on open-source projects
-
-📂 Featured Projects
-
-My AI/ML portfolio is currently in development. I’ll be adding documented projects, experiments, and practical applications as I build them.
-
-🤝 Connect With Me
-
-GitHub
-
-⸻
-
-Always learning. Always building.
+* LinkedIn
+* GitHub
